@@ -27,8 +27,10 @@ How    : Calculates the user input as year and gives the output.
 
 |`      `*ID|`                 `Description|`            `Status*|
 | :- | :- | :- |
-|`LL01\ `HL01|` `To Find Leap year or not| Implemented |
+|`LL01\ `HL01|` `To Find Leap year| Implemented |
+|`LL01\ `HL01|` `To Find not Leap year| Implemented |
 |`LL02\`HL02|` `<0 cannot be taken as input | Implemented |    
+|`LL02\`HL02|` `>0 cannot be taken as input | Implemented | 
 
 
 #  Low Level Requirements:
