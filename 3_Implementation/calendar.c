@@ -95,7 +95,6 @@ for(int months = 1; months <= 12; months++)
 		  }
 			Week++;
 			}
-			//reset the counter to keep trakc which day of the week
 			if(Week == 7)
 			{
 				printf("\n");
