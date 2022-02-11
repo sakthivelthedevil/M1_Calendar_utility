@@ -17,8 +17,6 @@ void printa(int t)
 
 int main()
 {
-	//the first array should be 0 to make it so comfortable
-	
 	char *mon[] = {" ", "Janurary", "Feburary", "March", "April", "May","June","July", "August", "September", "October", "Novemeber", "Decemeber"};
 	char *days[] = {" ", "Sun", "Mon", "Tue", "Wed", "Thu","Fri", "Sat"};
   int DaysOfMonth[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
@@ -42,17 +40,13 @@ int main()
 	{
 		printf("No it is not a leap year.\n");
 	}
-
-	int Week = Day(Year);
-
-	for(int months = 1; months <= 12; months++)
+int Week = Day(Year);
+for(int months = 1; months <= 12; months++)
 	{
 		int fhalf, shalf;
 		int length = strlen(mon[months]);
 		int t = 63 - length;
 		int startDay;
-
-		//to look calendar  even 
 		if(t % 2 != 0 )
 		{
 			fhalf = (t / 2) + 1;
@@ -86,15 +80,12 @@ int main()
 
 		for(int days = 1; days <= DaysOfMonth[months]; days++)
 		{
-			//to print out the days for Sunday
 			if(Week == 0)
 			{
 				printf(" %d", days);
 				Week++;
 			}else
 			{
-			//for special case of when the number transfer from
-			//single digit to double digit
 			if(days == 10)
 			{
 				printf("%11d", days);
@@ -102,7 +93,6 @@ int main()
 			{
 			printf("%10d", days);
 		  }
-			//to keep track which day of the week is it
 			Week++;
 			}
 			//reset the counter to keep trakc which day of the week
@@ -111,7 +101,6 @@ int main()
 				printf("\n");
 				Week = 0;
 			}
-			//set up the next month starting day of the week
 			startDay = Week;
 		}
 		printf("\n");
