@@ -29,7 +29,7 @@ How    : Calculates the user input as year and gives the output.
 | :- | :- | :- |
 |`LL01\_ `HL01|` `To Find Leap year or not| Implemented |
   
-|`    `HL02|` `does not supports Negative value| Implemented |
+|`LL02\_`HL02|` `<0 cannot be taken as input | Implemented |    
 
 
 #  Low Level Requirements:
@@ -37,5 +37,5 @@ How    : Calculates the user input as year and gives the output.
 |`      `*ID|`                 `Description|`            `Status*|
 | :- | :- | :- |
 |LL01|` `Show Months,days,week in order| Implemented | 
-
+|LL02|` `does not supports Negative value| Implemented |   
 
