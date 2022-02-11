@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<string.h>
-
+#include"calendar.h"
 int Day(int year)
 {
 	int result;
