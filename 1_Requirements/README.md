@@ -27,7 +27,8 @@ How    : Calculates the user input as year and gives the output.
 
 |`      `*ID|`                 `Description|`            `Status*|
 | :- | :- | :- |
-|`    `HL01|` `To Find Leap year or not| Implemented |
+|`LL01\_ `HL01|` `To Find Leap year or not| Implemented |
+  
 |`    `HL02|` `does not supports Negative value| Implemented |
 
 
@@ -35,8 +36,6 @@ How    : Calculates the user input as year and gives the output.
 
 |`      `*ID|`                 `Description|`            `Status*|
 | :- | :- | :- |
-|LL01\_HL01|` `Show how many days in year| Implemented |
-|LL02|` `shows how many weeks in year| Implemented |
-|LL03|` `shows how many months in year| Implemented |
+|LL01|` `Show Months,days,week in order| Implemented | 
 
 
