@@ -2,7 +2,7 @@
 
  # Code Quality, Code Grade
  
- ![code quality score](https://api.codiga.io/project/31261/score/svg)  ![code grade](https://api.codiga.io/project/31261/status/svg)
+ ![code quality score](https://api.codiga.io/project/31261/score/svg)                ![code grade](https://api.codiga.io/project/31261/status/svg)
 
 # REQUIREMENTS
 
