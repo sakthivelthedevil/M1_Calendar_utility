@@ -25,4 +25,4 @@ Finally I conclude that using the C programing we can build a calendar. I have l
 
 
    # Code Quality, Code Grade
-![code quality score] (https://api.codiga.io/project/31261/score/svg)   ![ code Grade ](https://api.codiga.io/project/31261/status/svg)
+![code quality score].(https://api.codiga.io/project/31261/score/svg)   ![ code Grade ](https://api.codiga.io/project/31261/status/svg)
