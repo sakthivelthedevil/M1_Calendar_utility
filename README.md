@@ -1,5 +1,8 @@
 # M1_Calendar_utility
 
+ # Code Quality, Code Grade
+ 
+ ![code quality score](https://api.codiga.io/project/31261/score/svg)  ![code grade](https://api.codiga.io/project/31261/status/svg)
 
 # REQUIREMENTS
 
@@ -24,5 +27,3 @@ Calendars are a simple and effective tool to help keep us productive and maximiz
 Finally I conclude that using the C programing we can build a calendar. I have learned to make our code more efficient and also works under any kind situation.The concepts of C program which I have used in the code is very understandable and userfriendly, from this project I gained many experience related to industrial structure that how should the project should be started and ended in industrial and civilized manner.
 
 
-   # Code Quality, Code Grade
-![code quality score].(https://api.codiga.io/project/31261/score/svg)   ![ code Grade ](https://api.codiga.io/project/31261/status/svg)
